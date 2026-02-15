@@ -18,4 +18,4 @@ Send raw serial data to the COM port, press any key on the X16 to stop listening
 
 see `include/serial.inc` for base addresses and baud rate settings
 
-#### There are no bounds checks - don't send more data than avaible VRAM available to use.
+#### There are no bounds checks - don't send more data than available VRAM!
